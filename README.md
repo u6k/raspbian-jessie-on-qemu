@@ -1,2 +1,3 @@
-# raspbian-jessie-on-qemu
-Windowsで動作するRaspbian Jessie+Qemuを提供します。
+# raspbian-on-qemu
+
+Windowsで動作するRaspbian+Qemuを提供します。
